@@ -30,3 +30,10 @@ Below mentioned is the home page of the application.
 ```sh
 http://localhost:5000/
 ```
+
+Application Screenshots:
+
+![Document](https://user-images.githubusercontent.com/61144649/118371915-678a3a00-b5cc-11eb-9e4a-e87008a6c6eb.png)
+
+
+![Document (1)](https://user-images.githubusercontent.com/61144649/118371931-84267200-b5cc-11eb-85d6-b25d2bf1f1f3.png)
